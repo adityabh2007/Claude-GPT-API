@@ -1,6 +1,12 @@
 # Claude-GPT-API
 Free API for Claude and GPT 3.5 chat completion.
 
+### Use Hosted API
+```bash
+Base URL : https://claude-gpt-api.onrender.com
+```
+#### Hosted on Render.com
+
 ### Host private instance : 
 1. Local Machine : 
 ```bash
