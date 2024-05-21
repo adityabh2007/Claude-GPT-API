@@ -1,0 +1,18 @@
+{
+  "name": "claude-gpt-api",
+  "version": "1.0.0",
+  "description": "API for Claude and GPT-3.5",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adityabh2007",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  }
+}
