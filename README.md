@@ -2,9 +2,7 @@
 Free API for Claude and GPT 3.5 chat completion.
 
 ### Use Hosted API
-```bash
-Base URL : https://claude-gpt-api.onrender.com
-```
+Base URL : [https://tame-gray-bee-boot.cyclic.app]
 #### Hosted on Render.com
 
 ### Host private instance : 
