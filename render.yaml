@@ -1,0 +1,11 @@
+# Exported from Render on 2024-05-21T09:28:21Z
+services:
+- type: web
+  name: Claude-GPT-API
+  runtime: node
+  repo: https://github.com/adityabh2007/Claude-GPT-API
+  plan: free
+  region: oregon
+  buildCommand: npm install express axios body-parser uuid
+  startCommand: node app.js
+version: "1"
