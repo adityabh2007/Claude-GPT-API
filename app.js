@@ -160,7 +160,7 @@ async function chatWithDuckDuckGo(req, res, messages, stream, model) {
   }
 }
 
-const PORT = process.env.PORT || 3456;
+const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
