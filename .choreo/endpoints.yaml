@@ -1,0 +1,8 @@
+version: 0.1
+endpoints:
+- name: ClaudeGPT API
+  port: 8080
+  type: REST
+  networkVisibility: Public
+  context: /
+  schemaFilePath: openapi.yaml
